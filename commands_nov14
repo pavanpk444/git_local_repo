@@ -1,0 +1,37 @@
+    1  cd Downloads
+    2  ssh -i "pavan.pem" ec2-user@ec2-18-118-185-54.us-east-2.compute.amazonaws.com
+    3  ssh -i "pavan.pem" ec2-user@ec2-18-118-185-54.us-east-2.compute.amazonaws.com
+    4  logout
+    5  cd Downloads
+    6  ssh -i "pavan.pem" ec2-user@ec2-3-138-158-48.us-east-2.compute.amazonaws.com
+    7  ssh -i "pavan.pem" ec2-user@ec2-18-191-24-166.us-east-2.compute.amazonaws.com
+    8  cd Downloads
+    9  ssh -i "pavan.pem" ec2-user@13.59.105.222
+   10  ssh -i "pavan.pem" ec2-user@13.59.105.222
+   11  ssh -i "pavan.pem" ec2-user@ec2-3-140-243-128.us-east-2.compute.amazonaws.com
+   12  git branch -M main
+   13  git remote add origin https://github.com/pavanpk444/git_local_repo.git
+   14  git remote -v
+   15  git push -u origin main
+   16  git pull origin main
+   17  git branch
+   18  git switch pavans
+   19  git pull origin main
+   20  git branch
+   21  git switch pavans
+   22  git checkout pavans
+   23  git pull
+   24  git branch
+   25  git switch pavans
+   26  git switch main
+   27  git branch dev
+   28  git swich main
+   29  git switch dev
+   30  git push
+   31  git push --set-upstream origin dev
+   32  git checkout qa
+   33  git branch qa
+   34  git checkout qa
+   35  git push origin qa
+   36  history
+   37  history > commands_nov14
